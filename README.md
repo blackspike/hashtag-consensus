@@ -20,3 +20,8 @@ Nuxt - [#nuxt](https://mastodon.roe.dev/@daniel/110650232036899362)
 React - [#reactJS](https://twitter.com/reactjs/status/352505698237689857)
 
 TypeScript - [#typescript](https://twitter.com/typescript/status/347070411906899968)
+
+Angular - [#angular](https://twitter.com/angular/status/992163488930791424)
+
+GraphQL – [#GraphQL](https://twitter.com/GraphQL/status/1678540049657352192) 
+

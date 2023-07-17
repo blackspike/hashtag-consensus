@@ -1,7 +1,7 @@
 # Hashtag Consensus
 This page hopes to be the canonical reference point for tech-related hashtags.
 
-Sources should be taken from the originator of the technology itself, and linked where possible.
+Sources should be taken from the originator of the technology itself or the brand account and linked to where possible.
 
 Pull requests welcome!
 

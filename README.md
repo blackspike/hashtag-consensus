@@ -11,6 +11,8 @@ Consensus around camelCasing
 
 ## JavaScript
 
+### Frameworks
+
 Astro - [#withAstro](https://m.webtoo.ls/@astro)
 
 Vue.JS - [#vueJS](https://twitter.com/vuejs/status/1176118401539833857)
@@ -25,3 +27,6 @@ Angular - [#angular](https://twitter.com/angular/status/992163488930791424)
 
 GraphQL – [#GraphQL](https://twitter.com/GraphQL/status/1678540049657352192) 
 
+### Libraries
+
+ThreeJS - [#threeJS](https://twitter.com/mrdoob/status/1660947596201046016) 

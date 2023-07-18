@@ -9,24 +9,26 @@ Pull requests welcome!
 
 Consensus around camelCasing
 
-## JavaScript
+## The Hashtags
 
-### Frameworks
+### JavaScript
 
-Astro - [#withAstro](https://m.webtoo.ls/@astro)
+#### Frameworks
 
-Vue.JS - [#vueJS](https://twitter.com/vuejs/status/1176118401539833857)
+[#withAstro](https://m.webtoo.ls/@astro) Astro
 
-Nuxt - [#nuxt](https://mastodon.roe.dev/@daniel/110650232036899362)
+[#vueJS](https://twitter.com/vuejs/status/1176118401539833857) Vue.JS
 
-React - [#reactJS](https://twitter.com/reactjs/status/352505698237689857)
+[#nuxt](https://mastodon.roe.dev/@daniel/110650232036899362) Nuxt
 
-TypeScript - [#typescript](https://twitter.com/typescript/status/347070411906899968)
+[#reactJS](https://twitter.com/reactjs/status/352505698237689857) React
 
-Angular - [#angular](https://twitter.com/angular/status/992163488930791424)
+[#typescript](https://twitter.com/typescript/status/347070411906899968) TypeScript
 
-GraphQL – [#GraphQL](https://twitter.com/GraphQL/status/1678540049657352192) 
+[#angular](https://twitter.com/angular/status/992163488930791424) Angular
+
+[#GraphQL](https://twitter.com/GraphQL/status/1678540049657352192) GraphQL
 
 ### Libraries
 
-ThreeJS - [#threeJS](https://twitter.com/mrdoob/status/1660947596201046016) 
+[#threeJS](https://twitter.com/mrdoob/status/1660947596201046016)  ThreeJS
